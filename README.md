@@ -2,9 +2,9 @@
 
 ### ⚙️ Tools Used:
 
-Data Preparation: MySQL
-Data Analysis: MySQL
-Data Visualization: Python
+- Data Preparation: MySQL
+- Data Analysis: MySQL
+- Data Visualization: Python
 
 🧠 As the discourse around mental health continues to evolve, it's imperative to explore its intersection with academic life, particularly among university students. 
 Recently, I conducted a comprehensive case study leveraging SQL to examine the mental health status and academic performance of university students.
